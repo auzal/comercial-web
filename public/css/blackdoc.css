@@ -347,7 +347,12 @@ a.sidebar-nav-item:visited {
 
 .page video{
 
-  max-width: 670px;
+  
+  display: block;
+  max-width: 100%;
+  margin: 0 0 1rem;
+  border-radius: 3px;
+
 }
 
 
